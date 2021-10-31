@@ -48,13 +48,13 @@
 									<header class="major">
 										<h1>Generic</h1>
 									</header>
-									<span class="image main"><img src="images/brax1.jpg" alt="" /></span>
-									<p>The number of elderly people who suffer Alzheimer’s disease is increasing year by year with the advent of aging society.While taking care of the elderly, I discovered that Alzheimer has a great impact on the life of the elderly. So, I’d like to design an APP for the middle-aged and the elderly to take precautions and prevent or alleviate the disease.</p>
-									<span class="image main"><img src="images/brax2.jpg" alt="" /></span>
-									<p>As one gets old, the brain will shrink and there will be amnesia and dementia. A proper amount of calculation and reading can stimulate the brain nerve to be active and prevent brain atrophy and brain degradation.</p>
-									<span class="image main"><img src="images/brax3.jpg" alt="" /></span>
-									<p>According to previous research on the causes and pre- vention methods of Alzheimer, I think flashcard can be employed as a comprehensive training carrier, which can keep the brain of the elderly in normal thinking frequency even after they get retired. In this way, the senile dementia can be prevented and delayed.</p>
-									<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
+									<span class="image main"><img src="images/PB01.jpg" alt="" /></span>
+									<p>Inspired by the office lights and the TV remote controller, I decided to make a bookcase that can help people find the position of the book with lights and book number. In this way, the problem of locatinga book is sovled and the weakness of dim light in the bookcase overcome. </p>
+									<span class="image main"><img src="images/PB02.jpg" alt="" /></span>
+									<p>For the purpose of remote control for lights, I first used Arduino for programming, and then LEDs, infrared receivers, and remote controllers. The infrared receiver decides which LED light to light up according to the received infrared wave frequency.</p>
+									<span class="image main"><img src="images/PB03.jpg" alt="" /></span>
+									<p>Fix the Arduino board to the back of the bookcase, and fix the wire of the strip to the back to prevent disconnection during daily use. And test the light strip again before confirming the wiring to prevent accidents.</p>
+									<span class="image main"><img src="images/PB04.jpg" alt="" /></span>
 								</div>
 							</section>
 
