@@ -54,7 +54,7 @@
 									<p>For the purpose of remote control for lights, I first used Arduino for programming, and then LEDs, infrared receivers, and remote controllers. The infrared receiver decides which LED light to light up according to the received infrared wave frequency.</p>
 									<span class="image main"><img src="images/PB03.jpg" alt="" /></span>
 									<p>Fix the Arduino board to the back of the bookcase, and fix the wire of the strip to the back to prevent disconnection during daily use. And test the light strip again before confirming the wiring to prevent accidents.</p>
-									<span class="image main"><img src="images/PB04.jpg" alt="" /></span>
+									<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
 								</div>
 							</section>
 
